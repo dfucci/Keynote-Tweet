@@ -10,10 +10,12 @@
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.ScriptEditor.id.Tweet-Keynote</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Keynote Tweet</string>
+	<string>Tweet Keynote</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
@@ -30,15 +32,15 @@
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>2</integer>
+		<integer>-1</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>410</real>
+		<real>333</real>
 		<key>savedFrame</key>
-		<string>444 65 901 715 0 0 1440 878 </string>
+		<string>7 275 602 597 0 0 1920 1058 </string>
 		<key>selectedTabView</key>
-		<string>event log</string>
+		<string>result</string>
 	</dict>
 </dict>
 </plist>
